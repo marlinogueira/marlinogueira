@@ -11,4 +11,6 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/marlinogueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
      <a href="https://github.com/marlinogueira?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/marlinogueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marli-nogueira-2229242b/">
+         <img alt="followers" title="Follow me on linkedin" src="https://custom-icon-badges.demolab.com/linkedin/followers/marli-nogueira-2229242b/?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=conexões&logoColor=white"/></a>
    </p>
