@@ -7,8 +7,15 @@ comprometida, dinâmica, focada em crescer e aprender sempre a cada projeto. Ten
 de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também sou especialista em Criação de Sites Profissionais. 
 
 <p align="left">
+
+ </a>
  <a href="https://github.com/marlinogueira?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/marlinogueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas on GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/marlinogueira?color=55960c&style=for-the-      
+        badge&labelColor=488207&logo=star"/></a>
+        
      <a href="https://github.com/marlinogueira?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/marlinogueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/marli-nogueira-2229242b/">
@@ -19,13 +26,7 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
    ---
    ### 🤖 Linguagens e Tecnologias
    
-   <img 
-    align="left"
-    alt= "HTML"
-    title= "HTML"
-    width="30px"
-    style="padding-right:10px;"   
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
     />
           
    
