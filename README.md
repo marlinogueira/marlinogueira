@@ -18,12 +18,14 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
    
    ---
    ### 🤖 Linguagens e Tecnologias
+   
    <img 
     align="left"
     alt= "HTML"
     title= "HTML"
     width="30px"
-    style="padding-right:10px;"      
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    style="padding-right:10px;"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
     />
+          
    
