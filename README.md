@@ -16,7 +16,7 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
  </p>
    
 ---
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
    
    <p 
    <img align="left" alt="Power-BI" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
@@ -24,9 +24,8 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
    <img align="left" alt="Oracle" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
    <img align="left" alt="Tableau" width="100px" style="padding-right:20px;" src="https://cdnl.tblsft.com/sites/default/files/pages/tableaulogo_highres.png" />
     </p>
-
-   ---
-   ### 📊 Estatíticas
+  ---
+## 📊 Estatíticas
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlinogueira&show_icons=true)
           
