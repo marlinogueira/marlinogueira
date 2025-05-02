@@ -22,7 +22,6 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
    <img align="left" alt="Tableau" width="100px" style="padding-right:20px;" src="https://cdnl.tblsft.com/sites/default/files/pages/tableaulogo_highres.png" />
     </p>
 
-    <br/>    <br/>
    ---
    ### 📊 Estatíticas
 
