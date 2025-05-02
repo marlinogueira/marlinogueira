@@ -17,6 +17,6 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
    ### 🤖 Linguagens e Tecnologias
    
    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-   <img align="left" alt="oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+   <img align="left" alt="oracle" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
           
    
