@@ -12,6 +12,9 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
          <a href="https://github.com/marlinogueira?tab=followers">
          <img alt="Seguidores" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/marlinogueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
   </p>
+<br/> 
+<br/>
+
 ---
 ## 🤖 Linguagens e Tecnologias
    
