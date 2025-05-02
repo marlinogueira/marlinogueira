@@ -11,10 +11,13 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/marlinogueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
          <a href="https://github.com/marlinogueira?tab=followers">
          <img alt="Seguidores" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/marlinogueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
+ <br/> 
+<br/>
  </p>
    
-   ---
-   ### 🤖 Linguagens e Tecnologias
+---
+### 🤖 Linguagens e Tecnologias
+   
    <p 
    <img align="left" alt="Power-BI" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
