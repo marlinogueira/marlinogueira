@@ -28,7 +28,12 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
 
 ---
 ## 🤖 Estatíticas
+ <img 
+	 align="left" 
+ 	alt="GitHub stats" 
+	 height="200px" 
+	 style="padding-right:10px;" 
+	 src="https://github-readme-stats.vercel.app/api?username=marlinogueira&show_icons=true&theme=radical"/>
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlinogueira&show_icons=true)
           
    
