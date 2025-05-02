@@ -11,7 +11,7 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/marlinogueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
          <a href="https://github.com/marlinogueira?tab=followers">
          <img alt="Seguidores" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/marlinogueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
- <br/> 
+<br/> 
 <br/>
  </p>
    
@@ -23,8 +23,10 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    <img align="left" alt="Oracle" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
    <img align="left" alt="Tableau" width="100px" style="padding-right:20px;" src="https://cdnl.tblsft.com/sites/default/files/pages/tableaulogo_highres.png" />
-    </p>
-  ---
+<br/> 
+<br/>
+</p>
+---
 ## 📊 Estatíticas
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlinogueira&show_icons=true)
