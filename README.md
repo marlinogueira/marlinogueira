@@ -27,7 +27,7 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
 <br/>
 
 ---
-## 🤖 Estatíticas
+## 📊 Estatíticas
  <img 
 	 align="left" 
  	alt="GitHub stats" 
