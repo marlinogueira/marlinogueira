@@ -21,7 +21,7 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
    <img align="left" alt="Power-BI" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"/>
    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
    <img align="left" alt="Tableau" width="100px" style="padding-right:20px;" src="https://cdnl.tblsft.com/sites/default/files/pages/tableaulogo_highres.png"/>
-   <img align="left" alt="Oracle" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>7
+   <img align="left" alt="Oracle" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
    
 <br/> 
 <br/>
