@@ -33,7 +33,13 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
  	alt="GitHub stats" 
 	 height="200px" 
 	 style="padding-right:10px;" 
-	 src="https://github-readme-stats.vercel.app/api?username=marlinogueira&show_icons=true&theme=radical"/>
-
-          
+	 src="https://github-readme-stats.vercel.app/api?username=marlinogueira&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
+/>
+ <img 
+	 align="left" 
+ 	alt="GitHub stats" 
+	 height="200px" 
+	 style="padding-right:10px;" 
+	 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlinogueira&theme=radical&include_all_commits=true&locale=pt-br"
+/>          
    
