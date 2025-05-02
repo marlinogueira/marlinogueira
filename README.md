@@ -9,11 +9,9 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
   <p align="left">
 	<a href="https://github.com/marlinogueira?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/marlinogueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   
-      <a href="https://github.com/marlinogueira?tab=followers">
+         <a href="https://github.com/marlinogueira?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/marlinogueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-add&label=Follow&logoColor=white"/></a>
-     
-	 </p>
+ </p>
    
    ---
    ### 🤖 Linguagens e Tecnologias
