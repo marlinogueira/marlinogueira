@@ -14,3 +14,6 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
  <a href="https://www.linkedin.com/in/marli-nogueira-2229242b/">
          <img alt="linkedin" title="Total conection on Linkedin" src=""https://www.linkedin.com/in/marli-nogueira-2229242b/?color=55960c&style=for-the-badge&labelColor=488207&logo=linkedin"/></a>
    </p>
+
+   ---
+   ###
