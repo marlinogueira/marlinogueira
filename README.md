@@ -39,13 +39,13 @@ de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também s
    
    <img align="left" alt="Power-BI" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"/>
    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-   <img align="left" alt="Tableau" width="60px" style="padding-right:20px;" src="https://cdnl.tblsft.com/sites/default/files/pages/tableaulogo_highres.png" />
+   <img align="left" alt="Tableau" width="40px" style="padding-right:20px;" src="https://cdnl.tblsft.com/sites/default/files/pages/tableaulogo_highres.png" alt="tableau" width="40" height="40" />
    <img align="left" alt="Oracle" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
    <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
    <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
    <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-   <img align="left" alt="sql-server" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-   <img align="left" alt="mysql" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
+   <img align="left" alt="sql-server" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"  /> 
+   <img align="left" alt="mysql" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
 
 <br/> 
 <br/>
