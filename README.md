@@ -1,3 +1,31 @@
+<h1 align="center">Olá 👋, Eu sou a Marli Nógueira</h1>
+<h3 align="center">Apaixonada por ciência e análise de dados no mundo digital!</h3>
+
+- 🔭 Atualmente estou em busca de uma nova oportunidade **no mercado de trabalho**
+
+- 🌱 Aproveitando este tempo para aprendr **Python e me Especializando ainda maisem Power BI**
+
+- 👯 Também faço criação de Sites profissionais [Unique Designer](https://uniquedesigner.com.br/)
+
+- 💬 Me pergunte sobre: ​​**Power BI, Tableau, Google Data Studio, SAP Business Objescts**
+
+- 📫 Você me encontra através do email **marlisantosnogueira@gmail.com**
+
+- 📄 Minhas experiências você enontra [https://www.linkedin.com/in/marli-nogueira-2229242b/](https://www.linkedin.com/in/marli-nogueira-2229242b/)
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marli-nogueira-2229242b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marli-nogueira-2229242b/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" largura="40" altura="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" largura="40" altura="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" largura="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlinogueira&show_icons=true&locale=en&layout=compact" alt="marlinogueira" /></p>
+
+
+
+
 ## 👩‍💻 Marli Nógueira
 **'Analista de Sistemas| BI | Web Designer'**
 Profissional da área de Sistemas da Informação com foco em Business Intelligence, atuando na área há 16 anos, com vivência nas
