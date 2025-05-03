@@ -1,5 +1,12 @@
-<h1 align="center">Olá 👋, Eu sou a Marli Nógueira</h1>
+<h1 align="center">Olá, Eu sou a Marli Nógueira 👩‍💻 </h1>
+<h3 align="center">Analista de Sistemas | BI | Web Designer'</h3>
 <h3 align="center">Apaixonada por ciência e análise de dados no mundo digital!</h3>
+Profissional da área de Sistemas da Informação com foco em Business Intelligence, atuando na área há 16 anos, com vivência nas
+ferramentas: MicroStrategy, Tableau, Power BI, Business Objects, Crystal Reports, Oracle, e SAP Commissions (Callidus).
+Procuro desafios em prol de desenvolver novas habilidades e alavancar conhecimento agregando resultados positivos. Sou
+comprometida, dinâmica, focada em crescer e aprender sempre a cada projeto. Tenho um bom relacionamento com histórico profissional
+de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também sou especialista em Criação de Sites Profissionais. 
+
 
 - 🔭 Atualmente estou em busca de uma nova oportunidade **no mercado de trabalho**
 
@@ -18,15 +25,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marli-nogueira-2229242b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marli-nogueira-2229242b/" height="30" width="40" /></a>
 </p>
 
-## 👩‍💻 Marli Nógueira
-**'Analista de Sistemas| BI | Web Designer'**
-Profissional da área de Sistemas da Informação com foco em Business Intelligence, atuando na área há 16 anos, com vivência nas
-ferramentas: MicroStrategy, Tableau, Power BI, Business Objects, Crystal Reports, Oracle, e SAP Commissions (Callidus).
-Procuro desafios em prol de desenvolver novas habilidades e alavancar conhecimento agregando resultados positivos. Sou
-comprometida, dinâmica, focada em crescer e aprender sempre a cada projeto. Tenho um bom relacionamento com histórico profissional
-de crescimento progressivo. Sou apaixonada por BI e Web Designer, onde também sou especialista em Criação de Sites Profissionais. 
-
-  <p align="left">
+<p align="left">
 	<a href="https://github.com/marlinogueira?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/marlinogueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
          <a href="https://github.com/marlinogueira?tab=followers">
