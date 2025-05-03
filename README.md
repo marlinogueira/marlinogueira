@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Eu sou a Marli Nógueira 👩‍💻 </h1>
-<h3 align="center">Analista de Sistemas | BI | Web Designer'</h3>
+<h2 align="center">Analista de Sistemas | BI | Web Designer'</h2>
 <h3 align="center">Apaixonada por ciência e análise de dados no mundo digital!</h3>
 Profissional da área de Sistemas da Informação com foco em Business Intelligence, atuando na área há 16 anos, com vivência nas
 ferramentas: MicroStrategy, Tableau, Power BI, Business Objects, Crystal Reports, Oracle, e SAP Commissions (Callidus).
